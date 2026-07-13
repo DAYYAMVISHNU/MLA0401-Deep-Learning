@@ -1,3 +1,7 @@
+To demonstrate 2 class confusion matrix using python
+
+code:
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
