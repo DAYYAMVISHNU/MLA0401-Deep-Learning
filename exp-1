@@ -1,3 +1,6 @@
+To demonstrate confusion matrix using python
+code:
+
 import numpy as np
 from sklearn.metrics import confusion_matrix
 import seaborn as sns
